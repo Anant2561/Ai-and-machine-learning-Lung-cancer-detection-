@@ -61,3 +61,5 @@ This script will load the dataset, preprocess the images, and train the models. 
 Results and Analysis
 Test Accuracy: Displayed after model evaluation.
 Performance plots: Generated for accuracy and loss over the epochs, saved in the output folder.
+https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
+dataset link
