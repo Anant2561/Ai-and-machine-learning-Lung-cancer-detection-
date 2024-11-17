@@ -12,18 +12,7 @@ Performance Evaluation: Evaluated model performance based on accuracy, with visu
 Dataset
 The dataset used for training and testing includes CT scan images of lungs, divided into categories based on the presence or absence of lung cancer. The dataset is organized into train, validation, and test directories. Ensure the dataset follows this structure:
 
-plaintext
-Copy code
-Data/
-├── train/
-│   ├── class_0/
-│   └── class_1/
-├── validation/
-│   ├── class_0/
-│   └── class_1/
-└── test/
-    ├── class_0/
-    └── class_1/
+
 Installation and Dependencies
 To run this project, install the following dependencies:
 
